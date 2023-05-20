@@ -1,1 +1,1 @@
-This is the Event Module in NodeJs
+This is the Events Module in NodeJs
