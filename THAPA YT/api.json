@@ -1,0 +1,15 @@
+{
+    "user_id": "john.smith@host.com",
+    "email": "john.smith@host.com",
+    "given_name": "John",
+    "family_name": "Smith",
+    "groups": [
+      {
+        "name": "Participants"
+      }
+    ],
+    "details": {
+      "phone_number": "555-555-8377",
+      "preferred_language": "de"
+    }
+  }
